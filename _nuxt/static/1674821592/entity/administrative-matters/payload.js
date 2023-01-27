@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/entity/administrative-matters", {data:[{}],fetch:{},mutations:void 0});

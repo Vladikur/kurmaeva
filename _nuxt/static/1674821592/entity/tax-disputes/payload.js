@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/entity/tax-disputes", {data:[{}],fetch:{},mutations:void 0});

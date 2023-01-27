@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/individual/other-civil-cases", {data:[{}],fetch:{},mutations:void 0});

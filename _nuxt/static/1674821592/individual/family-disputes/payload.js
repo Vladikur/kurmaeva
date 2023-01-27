@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/individual/family-disputes", {data:[{}],fetch:{},mutations:void 0});
