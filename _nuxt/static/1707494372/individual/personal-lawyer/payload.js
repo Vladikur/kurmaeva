@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/individual/personal-lawyer", {data:[{}],fetch:{},mutations:void 0});
